@@ -212,3 +212,8 @@ My socials:
 - [Supabase](https://supabase.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [shadcn/ui](https://ui.shadcn.com/)
+
+
+## Cross-project Definition of Done — mandatory (11/10/2026)
+
+[Global canonical delivery standard](https://docs.google.com/document/d/11n7ds-nOu2Qy-UF5T0YFaFNu3rZJiLGkKCsGTCGJ-f0/edit) applies to every human/AI agent working here. Each cycle: define one **usable outcome** and acceptance criteria; modify real source/assets; run applicable *available* checks, documenting command and PASS/FAIL/NOT RUN; update the existing source of truth/QA rather than adding duplicate plans; record changed files/commit, preview only if validated, unverified device/backend behavior and a single next high-value action. Allowed status: PLANNED / IN PROGRESS / IMPLEMENTED — UNVERIFIED / VERIFIED — TESTED / BLOCKED / RELEASED — VERIFIED. Never equate code/PR/CI with real-device, human or production verification. Respect this repository's existing privacy, review and release approvals.
